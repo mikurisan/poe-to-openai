@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://i.imgur.com/VU5TOfr.png" alt="Poe" height="300">
+  <br/>
+  <br/>
+  <img src="https://i.imgur.com/AuaTNhH.png" alt="Poe" >
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 </div>
 
 # Poe-to-Openai
