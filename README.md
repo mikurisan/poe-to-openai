@@ -6,6 +6,7 @@
 
 This repository provides a utility to convert AI output received from **Poe** into a format compatible with the **OpenAI** API, supporting both [chat completion](https://platform.openai.com/docs/api-reference/chat/create) and [response](https://platform.openai.com/docs/api-reference/responses/create) types.
 
+**Local image upload is also supported.** 😃
 
 ## How to start
 
