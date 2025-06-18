@@ -38,6 +38,8 @@ $ uvicorn app.main:app --host 0.0.0.0 --port 2026 --workers 1 --loop uvloop --ht
 
 ## How to use
 
+[To get your personal Poe key](https://poe.com/api_key)
+
 **For chat completion request**, for example:
 
 ```shell
