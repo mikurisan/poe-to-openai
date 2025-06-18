@@ -9,6 +9,8 @@ This repository provides a utility to convert AI output received from **Poe** in
 
 ## How to start
 
+*Python version: 3.11*
+
 **To download python libraries**:
 
 ```
